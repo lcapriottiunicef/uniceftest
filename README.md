@@ -6,6 +6,7 @@ Windows host:
   * Install WSL: [How to install WSL 2 on Windows 11](https://www.youtube.com/watch?v=eId6K8d0v6o)
   * Update kernel and install Ubuntu LTS
     >wsl --update
+    
     >wsl --install Ubuntu
   
   * Continue with Ubuntu host instructions
